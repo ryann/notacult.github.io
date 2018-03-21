@@ -6,7 +6,7 @@ Not a cult. [Who would ever sacrifice such a creature?](https://www.youtube.com/
 
 Link to the [telegram chat](https://t.me/joinchat/BBOujUSFo-K5IGrN00K1Fg).  Feel free to invite like minded people if you vouch for them, or if you are unsure ask and we'll do a quick interview.
 
-Please note anything that is said on telegram should be considered public record[enter link description here](https://news.ycombinator.com/item?id=16631739). Maybe one day we'll switch venues. Download either the app for iOS, android, or use the [
+Please note [anything that is said on telegram should be considered public record](https://news.ycombinator.com/item?id=16631739). Maybe one day we'll switch venues. Download either the app for iOS, android, or use the [
 ](http://web.telegram.org/).
 
 ## Code of Conduct
@@ -15,4 +15,6 @@ Please note anything that is said on telegram should be considered public record
 - Have 3 ideas every monday for a standup (attendence not required) weekly scrum meeting. They can be anything for now.
 - [Clean your room and sort yourself out, bucko.](https://www.youtube.com/watch?v=DTvnU4wiCkM)
 - Be kind, and listen.
+
+
 
