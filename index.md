@@ -1,3 +1,5 @@
+![](assets/images/logo-small.png)
+
 # Absolutely not a cult.
 
 For now we're trying to grow as a group and as individuals. One necessitates the other. Open dialog, a focus on career, mindfulness, technology, lifestyle, and all of the arts.
@@ -11,9 +13,10 @@ Please note [anything that is said on telegram should be considered public recor
 
 ## Code of Conduct
 - No dick picks.
+- Turn off notifications for the group chat. Mandatory.
 - Don't ask to ask, just ask.
-- Have 3 ideas every monday for a standup (attendence not required) weekly scrum meeting. They can be anything for now.
+- Have 3 ideas every monday for a standup (attendence not required) weekly meeting. They can be anything for now.
 - [Clean your room and sort yourself out, bucko.](https://www.youtube.com/watch?v=DTvnU4wiCkM)
 - Be kind, and listen.
 
-
+It is suggested you change your avatar to an animal that represents you.
