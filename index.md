@@ -11,6 +11,12 @@ Link to the [telegram chat](https://t.me/joinchat/BBOujUSFo-K5IGrN00K1Fg).  Feel
 Please note [anything that is said on telegram should be considered public record](https://news.ycombinator.com/item?id=16631739). Maybe one day we'll switch venues. Download either the app for iOS, android, or use the [web interface
 ](http://web.telegram.org/).
 
+## Sidebets
+
+*"What gets measured gets managed."* - Someone, probably a manager.
+
+We suggest getting started by participating in a [SIDE BET.](http://notacult.space/sidebets)
+
 ## Code of Conduct
 - No dick picks.
 - Turn off notifications for the group chat. Mandatory.
