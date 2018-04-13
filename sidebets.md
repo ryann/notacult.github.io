@@ -27,6 +27,7 @@ And hold yourself accountable. Get some skin in the game, raise the stakes. Make
  - [ ] Pick an activity, or set of activities.
  - [ ] Tell the group both your goals and the accompanying punishments.
  - [ ] Track your activities if possible using an App.
+ 
 	- Meditation? How about [Oak](https://www.oakmeditation.com/)
 	- Exercise? We like [Fitbod.](https://www.fitbod.me/)
 	- Running? [Runkeeper](https://runkeeper.com/) is always a solid choice.
@@ -39,3 +40,4 @@ Then each day, simply hold yourself accountable by checking in with the group on
 ### FAQ
 Q: Where does the money go if I have to pay a monetary punishment?
 A: For now, all cryptocurrency deposits go into a shared wallet. This wallet will be used to fund business ideas, fun activities, possibly steak a reward pool. The bottom line is the money will be used to benefit the group.
+
