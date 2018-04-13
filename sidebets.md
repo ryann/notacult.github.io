@@ -27,12 +27,12 @@ And hold yourself accountable. Get some skin in the game, raise the stakes. Make
  - [ ] Pick an activity, or set of activities.
  - [ ] Tell the group both your goals and the accompanying punishments.
  - [ ] Track your activities if possible using an App.
-	 - Meditation? How about [Oak](https://www.oakmeditation.com/)
-	 - Exercise? We like [Fitbod.](https://www.fitbod.me/)
-	 - Running? [Runkeeper](https://runkeeper.com/) is always a solid choice.
-	 - Flossing every day? [Don't break the chain.](https://itunes.apple.com/us/app/dont-break-the-chain/id313567772)
-	 - Focused productivity? Grow some trees with [Forest.](https://www.forestapp.cc/en/)
-         - Diet? You have a friend in [Myfitnesspal](https://www.myfitnesspal.com/)
+	- Meditation? How about [Oak](https://www.oakmeditation.com/)
+	- Exercise? We like [Fitbod.](https://www.fitbod.me/)
+	- Running? [Runkeeper](https://runkeeper.com/) is always a solid choice.
+	- Flossing every day? [Don't break the chain.](https://itunes.apple.com/us/app/dont-break-the-chain/id313567772)
+	- Focused productivity? Grow some trees with [Forest.](https://www.forestapp.cc/en/)
+	- Diet? You have a friend in [Myfitnesspal](https://www.myfitnesspal.com/)
 
 Then each day, simply hold yourself accountable by checking in with the group on your progress. Share proof of your activity in the form of screenshots or photos.
 
